@@ -22,6 +22,38 @@ El objetivo de este repositorio es poder hacer una colección de recursos en esp
 
 Podéis proponer esquemas y formas de documentar que creáis que pueden ir mejor
 
+# Contribución
+
+```shell
+git clone 
+```
+
+Cada carpeta tiene sus modulos por lo que para empezar installar todos los paquetes: 
+
+
+```shell
+ git branch [nombre_del_update]
+```
+Una vez la rama creada pasad a vuestra rama: 
+
+```shell
+ git checkout [nombre_del_update]
+```
+
+finalmente hacer commit y push: 
+
+```shell
+ git add .
+```
+
+```shell
+ git commit -m "Título del commit" -m "Descripción del commit"
+```
+
+```shell
+ git push origin [nombre_del_update]
+```
+
 # Tabla de contenidos
 
 
